@@ -1,0 +1,924 @@
+body {
+  margin: 0;
+  color: #054ddd;
+  background-color: #fdfdfd;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.text-primary {
+  color: #054ddd;
+}
+
+.bg-primary {
+  background-color: #054ddd;
+}
+
+.text-primary-light-1 {
+  color: rgb(30, 94.8, 224.4);
+}
+
+.bg-primary-light-1 {
+  background-color: rgb(30, 94.8, 224.4);
+}
+
+.text-primary-light-2 {
+  color: rgb(55, 112.6, 227.8);
+}
+
+.bg-primary-light-2 {
+  background-color: rgb(55, 112.6, 227.8);
+}
+
+.text-primary-light-3 {
+  color: rgb(80, 130.4, 231.2);
+}
+
+.bg-primary-light-3 {
+  background-color: rgb(80, 130.4, 231.2);
+}
+
+.text-primary-light-4 {
+  color: rgb(105, 148.2, 234.6);
+}
+
+.bg-primary-light-4 {
+  background-color: rgb(105, 148.2, 234.6);
+}
+
+.text-primary-light-5 {
+  color: #82a6ee;
+}
+
+.bg-primary-light-5 {
+  background-color: #82a6ee;
+}
+
+.text-primary-light-6 {
+  color: rgb(155, 183.8, 241.4);
+}
+
+.bg-primary-light-6 {
+  background-color: rgb(155, 183.8, 241.4);
+}
+
+.text-primary-light-7 {
+  color: rgb(180, 201.6, 244.8);
+}
+
+.bg-primary-light-7 {
+  background-color: rgb(180, 201.6, 244.8);
+}
+
+.text-primary-light-8 {
+  color: rgb(205, 219.4, 248.2);
+}
+
+.bg-primary-light-8 {
+  background-color: rgb(205, 219.4, 248.2);
+}
+
+.text-primary-light-9 {
+  color: rgb(230, 237.2, 251.6);
+}
+
+.bg-primary-light-9 {
+  background-color: rgb(230, 237.2, 251.6);
+}
+
+.text-primary-dark-1 {
+  color: rgb(4.5, 69.3, 198.9);
+}
+
+.bg-primary-dark-1 {
+  background-color: rgb(4.5, 69.3, 198.9);
+}
+
+.text-primary-dark-2 {
+  color: rgb(4, 61.6, 176.8);
+}
+
+.bg-primary-dark-2 {
+  background-color: rgb(4, 61.6, 176.8);
+}
+
+.text-primary-dark-3 {
+  color: rgb(3.5, 53.9, 154.7);
+}
+
+.bg-primary-dark-3 {
+  background-color: rgb(3.5, 53.9, 154.7);
+}
+
+.text-primary-dark-4 {
+  color: rgb(3, 46.2, 132.6);
+}
+
+.bg-primary-dark-4 {
+  background-color: rgb(3, 46.2, 132.6);
+}
+
+.text-primary-dark-5 {
+  color: rgb(2.5, 38.5, 110.5);
+}
+
+.bg-primary-dark-5 {
+  background-color: rgb(2.5, 38.5, 110.5);
+}
+
+.text-primary-dark-6 {
+  color: rgb(2, 30.8, 88.4);
+}
+
+.bg-primary-dark-6 {
+  background-color: rgb(2, 30.8, 88.4);
+}
+
+.text-primary-dark-7 {
+  color: rgb(1.5, 23.1, 66.3);
+}
+
+.bg-primary-dark-7 {
+  background-color: rgb(1.5, 23.1, 66.3);
+}
+
+.text-primary-dark-8 {
+  color: rgb(1, 15.4, 44.2);
+}
+
+.bg-primary-dark-8 {
+  background-color: rgb(1, 15.4, 44.2);
+}
+
+.text-primary-dark-9 {
+  color: rgb(0.5, 7.7, 22.1);
+}
+
+.bg-primary-dark-9 {
+  background-color: rgb(0.5, 7.7, 22.1);
+}
+
+.text-secondary {
+  color: #1fd8fd;
+}
+
+.bg-secondary {
+  background-color: #1fd8fd;
+}
+
+.text-secondary-light-1 {
+  color: rgb(53.4, 219.9, 253.2);
+}
+
+.bg-secondary-light-1 {
+  background-color: rgb(53.4, 219.9, 253.2);
+}
+
+.text-secondary-light-2 {
+  color: rgb(75.8, 223.8, 253.4);
+}
+
+.bg-secondary-light-2 {
+  background-color: rgb(75.8, 223.8, 253.4);
+}
+
+.text-secondary-light-3 {
+  color: rgb(98.2, 227.7, 253.6);
+}
+
+.bg-secondary-light-3 {
+  background-color: rgb(98.2, 227.7, 253.6);
+}
+
+.text-secondary-light-4 {
+  color: rgb(120.6, 231.6, 253.8);
+}
+
+.bg-secondary-light-4 {
+  background-color: rgb(120.6, 231.6, 253.8);
+}
+
+.text-secondary-light-5 {
+  color: rgb(143, 235.5, 254);
+}
+
+.bg-secondary-light-5 {
+  background-color: rgb(143, 235.5, 254);
+}
+
+.text-secondary-light-6 {
+  color: rgb(165.4, 239.4, 254.2);
+}
+
+.bg-secondary-light-6 {
+  background-color: rgb(165.4, 239.4, 254.2);
+}
+
+.text-secondary-light-7 {
+  color: rgb(187.8, 243.3, 254.4);
+}
+
+.bg-secondary-light-7 {
+  background-color: rgb(187.8, 243.3, 254.4);
+}
+
+.text-secondary-light-8 {
+  color: rgb(210.2, 247.2, 254.6);
+}
+
+.bg-secondary-light-8 {
+  background-color: rgb(210.2, 247.2, 254.6);
+}
+
+.text-secondary-light-9 {
+  color: rgb(232.6, 251.1, 254.8);
+}
+
+.bg-secondary-light-9 {
+  background-color: rgb(232.6, 251.1, 254.8);
+}
+
+.text-secondary-dark-1 {
+  color: rgb(27.9, 194.4, 227.7);
+}
+
+.bg-secondary-dark-1 {
+  background-color: rgb(27.9, 194.4, 227.7);
+}
+
+.text-secondary-dark-2 {
+  color: rgb(24.8, 172.8, 202.4);
+}
+
+.bg-secondary-dark-2 {
+  background-color: rgb(24.8, 172.8, 202.4);
+}
+
+.text-secondary-dark-3 {
+  color: rgb(21.7, 151.2, 177.1);
+}
+
+.bg-secondary-dark-3 {
+  background-color: rgb(21.7, 151.2, 177.1);
+}
+
+.text-secondary-dark-4 {
+  color: rgb(18.6, 129.6, 151.8);
+}
+
+.bg-secondary-dark-4 {
+  background-color: rgb(18.6, 129.6, 151.8);
+}
+
+.text-secondary-dark-5 {
+  color: rgb(15.5, 108, 126.5);
+}
+
+.bg-secondary-dark-5 {
+  background-color: rgb(15.5, 108, 126.5);
+}
+
+.text-secondary-dark-6 {
+  color: rgb(12.4, 86.4, 101.2);
+}
+
+.bg-secondary-dark-6 {
+  background-color: rgb(12.4, 86.4, 101.2);
+}
+
+.text-secondary-dark-7 {
+  color: rgb(9.3, 64.8, 75.9);
+}
+
+.bg-secondary-dark-7 {
+  background-color: rgb(9.3, 64.8, 75.9);
+}
+
+.text-secondary-dark-8 {
+  color: rgb(6.2, 43.2, 50.6);
+}
+
+.bg-secondary-dark-8 {
+  background-color: rgb(6.2, 43.2, 50.6);
+}
+
+.text-secondary-dark-9 {
+  color: rgb(3.1, 21.6, 25.3);
+}
+
+.bg-secondary-dark-9 {
+  background-color: rgb(3.1, 21.6, 25.3);
+}
+
+.text-white {
+  color: #fdfdfd;
+}
+
+.bg-white {
+  background-color: #fdfdfd;
+}
+
+.text-white-light-1 {
+  color: rgb(253.2, 253.2, 253.2);
+}
+
+.bg-white-light-1 {
+  background-color: rgb(253.2, 253.2, 253.2);
+}
+
+.text-white-light-2 {
+  color: rgb(253.4, 253.4, 253.4);
+}
+
+.bg-white-light-2 {
+  background-color: rgb(253.4, 253.4, 253.4);
+}
+
+.text-white-light-3 {
+  color: rgb(253.6, 253.6, 253.6);
+}
+
+.bg-white-light-3 {
+  background-color: rgb(253.6, 253.6, 253.6);
+}
+
+.text-white-light-4 {
+  color: rgb(253.8, 253.8, 253.8);
+}
+
+.bg-white-light-4 {
+  background-color: rgb(253.8, 253.8, 253.8);
+}
+
+.text-white-light-5 {
+  color: #fefefe;
+}
+
+.bg-white-light-5 {
+  background-color: #fefefe;
+}
+
+.text-white-light-6 {
+  color: rgb(254.2, 254.2, 254.2);
+}
+
+.bg-white-light-6 {
+  background-color: rgb(254.2, 254.2, 254.2);
+}
+
+.text-white-light-7 {
+  color: rgb(254.4, 254.4, 254.4);
+}
+
+.bg-white-light-7 {
+  background-color: rgb(254.4, 254.4, 254.4);
+}
+
+.text-white-light-8 {
+  color: rgb(254.6, 254.6, 254.6);
+}
+
+.bg-white-light-8 {
+  background-color: rgb(254.6, 254.6, 254.6);
+}
+
+.text-white-light-9 {
+  color: rgb(254.8, 254.8, 254.8);
+}
+
+.bg-white-light-9 {
+  background-color: rgb(254.8, 254.8, 254.8);
+}
+
+.text-white-dark-1 {
+  color: rgb(227.7, 227.7, 227.7);
+}
+
+.bg-white-dark-1 {
+  background-color: rgb(227.7, 227.7, 227.7);
+}
+
+.text-white-dark-2 {
+  color: rgb(202.4, 202.4, 202.4);
+}
+
+.bg-white-dark-2 {
+  background-color: rgb(202.4, 202.4, 202.4);
+}
+
+.text-white-dark-3 {
+  color: rgb(177.1, 177.1, 177.1);
+}
+
+.bg-white-dark-3 {
+  background-color: rgb(177.1, 177.1, 177.1);
+}
+
+.text-white-dark-4 {
+  color: rgb(151.8, 151.8, 151.8);
+}
+
+.bg-white-dark-4 {
+  background-color: rgb(151.8, 151.8, 151.8);
+}
+
+.text-white-dark-5 {
+  color: rgb(126.5, 126.5, 126.5);
+}
+
+.bg-white-dark-5 {
+  background-color: rgb(126.5, 126.5, 126.5);
+}
+
+.text-white-dark-6 {
+  color: rgb(101.2, 101.2, 101.2);
+}
+
+.bg-white-dark-6 {
+  background-color: rgb(101.2, 101.2, 101.2);
+}
+
+.text-white-dark-7 {
+  color: rgb(75.9, 75.9, 75.9);
+}
+
+.bg-white-dark-7 {
+  background-color: rgb(75.9, 75.9, 75.9);
+}
+
+.text-white-dark-8 {
+  color: rgb(50.6, 50.6, 50.6);
+}
+
+.bg-white-dark-8 {
+  background-color: rgb(50.6, 50.6, 50.6);
+}
+
+.text-white-dark-9 {
+  color: rgb(25.3, 25.3, 25.3);
+}
+
+.bg-white-dark-9 {
+  background-color: rgb(25.3, 25.3, 25.3);
+}
+
+.text-black {
+  color: #020202;
+}
+
+.bg-black {
+  background-color: #020202;
+}
+
+.text-black-light-1 {
+  color: rgb(27.3, 27.3, 27.3);
+}
+
+.bg-black-light-1 {
+  background-color: rgb(27.3, 27.3, 27.3);
+}
+
+.text-black-light-2 {
+  color: rgb(52.6, 52.6, 52.6);
+}
+
+.bg-black-light-2 {
+  background-color: rgb(52.6, 52.6, 52.6);
+}
+
+.text-black-light-3 {
+  color: rgb(77.9, 77.9, 77.9);
+}
+
+.bg-black-light-3 {
+  background-color: rgb(77.9, 77.9, 77.9);
+}
+
+.text-black-light-4 {
+  color: rgb(103.2, 103.2, 103.2);
+}
+
+.bg-black-light-4 {
+  background-color: rgb(103.2, 103.2, 103.2);
+}
+
+.text-black-light-5 {
+  color: rgb(128.5, 128.5, 128.5);
+}
+
+.bg-black-light-5 {
+  background-color: rgb(128.5, 128.5, 128.5);
+}
+
+.text-black-light-6 {
+  color: rgb(153.8, 153.8, 153.8);
+}
+
+.bg-black-light-6 {
+  background-color: rgb(153.8, 153.8, 153.8);
+}
+
+.text-black-light-7 {
+  color: rgb(179.1, 179.1, 179.1);
+}
+
+.bg-black-light-7 {
+  background-color: rgb(179.1, 179.1, 179.1);
+}
+
+.text-black-light-8 {
+  color: rgb(204.4, 204.4, 204.4);
+}
+
+.bg-black-light-8 {
+  background-color: rgb(204.4, 204.4, 204.4);
+}
+
+.text-black-light-9 {
+  color: rgb(229.7, 229.7, 229.7);
+}
+
+.bg-black-light-9 {
+  background-color: rgb(229.7, 229.7, 229.7);
+}
+
+.text-black-dark-1 {
+  color: rgb(1.8, 1.8, 1.8);
+}
+
+.bg-black-dark-1 {
+  background-color: rgb(1.8, 1.8, 1.8);
+}
+
+.text-black-dark-2 {
+  color: rgb(1.6, 1.6, 1.6);
+}
+
+.bg-black-dark-2 {
+  background-color: rgb(1.6, 1.6, 1.6);
+}
+
+.text-black-dark-3 {
+  color: rgb(1.4, 1.4, 1.4);
+}
+
+.bg-black-dark-3 {
+  background-color: rgb(1.4, 1.4, 1.4);
+}
+
+.text-black-dark-4 {
+  color: rgb(1.2, 1.2, 1.2);
+}
+
+.bg-black-dark-4 {
+  background-color: rgb(1.2, 1.2, 1.2);
+}
+
+.text-black-dark-5 {
+  color: #010101;
+}
+
+.bg-black-dark-5 {
+  background-color: #010101;
+}
+
+.text-black-dark-6 {
+  color: rgb(0.8, 0.8, 0.8);
+}
+
+.bg-black-dark-6 {
+  background-color: rgb(0.8, 0.8, 0.8);
+}
+
+.text-black-dark-7 {
+  color: rgb(0.6, 0.6, 0.6);
+}
+
+.bg-black-dark-7 {
+  background-color: rgb(0.6, 0.6, 0.6);
+}
+
+.text-black-dark-8 {
+  color: rgb(0.4, 0.4, 0.4);
+}
+
+.bg-black-dark-8 {
+  background-color: rgb(0.4, 0.4, 0.4);
+}
+
+.text-black-dark-9 {
+  color: rgb(0.2, 0.2, 0.2);
+}
+
+.bg-black-dark-9 {
+  background-color: rgb(0.2, 0.2, 0.2);
+}
+
+.text-gray {
+  color: #a7a7a7;
+}
+
+.bg-gray {
+  background-color: #a7a7a7;
+}
+
+.text-gray-light-1 {
+  color: rgb(175.8, 175.8, 175.8);
+}
+
+.bg-gray-light-1 {
+  background-color: rgb(175.8, 175.8, 175.8);
+}
+
+.text-gray-light-2 {
+  color: rgb(184.6, 184.6, 184.6);
+}
+
+.bg-gray-light-2 {
+  background-color: rgb(184.6, 184.6, 184.6);
+}
+
+.text-gray-light-3 {
+  color: rgb(193.4, 193.4, 193.4);
+}
+
+.bg-gray-light-3 {
+  background-color: rgb(193.4, 193.4, 193.4);
+}
+
+.text-gray-light-4 {
+  color: rgb(202.2, 202.2, 202.2);
+}
+
+.bg-gray-light-4 {
+  background-color: rgb(202.2, 202.2, 202.2);
+}
+
+.text-gray-light-5 {
+  color: lightgray;
+}
+
+.bg-gray-light-5 {
+  background-color: lightgray;
+}
+
+.text-gray-light-6 {
+  color: rgb(219.8, 219.8, 219.8);
+}
+
+.bg-gray-light-6 {
+  background-color: rgb(219.8, 219.8, 219.8);
+}
+
+.text-gray-light-7 {
+  color: rgb(228.6, 228.6, 228.6);
+}
+
+.bg-gray-light-7 {
+  background-color: rgb(228.6, 228.6, 228.6);
+}
+
+.text-gray-light-8 {
+  color: rgb(237.4, 237.4, 237.4);
+}
+
+.bg-gray-light-8 {
+  background-color: rgb(237.4, 237.4, 237.4);
+}
+
+.text-gray-light-9 {
+  color: rgb(246.2, 246.2, 246.2);
+}
+
+.bg-gray-light-9 {
+  background-color: rgb(246.2, 246.2, 246.2);
+}
+
+.text-gray-dark-1 {
+  color: rgb(150.3, 150.3, 150.3);
+}
+
+.bg-gray-dark-1 {
+  background-color: rgb(150.3, 150.3, 150.3);
+}
+
+.text-gray-dark-2 {
+  color: rgb(133.6, 133.6, 133.6);
+}
+
+.bg-gray-dark-2 {
+  background-color: rgb(133.6, 133.6, 133.6);
+}
+
+.text-gray-dark-3 {
+  color: rgb(116.9, 116.9, 116.9);
+}
+
+.bg-gray-dark-3 {
+  background-color: rgb(116.9, 116.9, 116.9);
+}
+
+.text-gray-dark-4 {
+  color: rgb(100.2, 100.2, 100.2);
+}
+
+.bg-gray-dark-4 {
+  background-color: rgb(100.2, 100.2, 100.2);
+}
+
+.text-gray-dark-5 {
+  color: rgb(83.5, 83.5, 83.5);
+}
+
+.bg-gray-dark-5 {
+  background-color: rgb(83.5, 83.5, 83.5);
+}
+
+.text-gray-dark-6 {
+  color: rgb(66.8, 66.8, 66.8);
+}
+
+.bg-gray-dark-6 {
+  background-color: rgb(66.8, 66.8, 66.8);
+}
+
+.text-gray-dark-7 {
+  color: rgb(50.1, 50.1, 50.1);
+}
+
+.bg-gray-dark-7 {
+  background-color: rgb(50.1, 50.1, 50.1);
+}
+
+.text-gray-dark-8 {
+  color: rgb(33.4, 33.4, 33.4);
+}
+
+.bg-gray-dark-8 {
+  background-color: rgb(33.4, 33.4, 33.4);
+}
+
+.text-gray-dark-9 {
+  color: rgb(16.7, 16.7, 16.7);
+}
+
+.bg-gray-dark-9 {
+  background-color: rgb(16.7, 16.7, 16.7);
+}
+
+.text-danger {
+  color: #d60c0c;
+}
+
+.bg-danger {
+  background-color: #d60c0c;
+}
+
+.text-danger-light-1 {
+  color: rgb(218.1, 36.3, 36.3);
+}
+
+.bg-danger-light-1 {
+  background-color: rgb(218.1, 36.3, 36.3);
+}
+
+.text-danger-light-2 {
+  color: rgb(222.2, 60.6, 60.6);
+}
+
+.bg-danger-light-2 {
+  background-color: rgb(222.2, 60.6, 60.6);
+}
+
+.text-danger-light-3 {
+  color: rgb(226.3, 84.9, 84.9);
+}
+
+.bg-danger-light-3 {
+  background-color: rgb(226.3, 84.9, 84.9);
+}
+
+.text-danger-light-4 {
+  color: rgb(230.4, 109.2, 109.2);
+}
+
+.bg-danger-light-4 {
+  background-color: rgb(230.4, 109.2, 109.2);
+}
+
+.text-danger-light-5 {
+  color: rgb(234.5, 133.5, 133.5);
+}
+
+.bg-danger-light-5 {
+  background-color: rgb(234.5, 133.5, 133.5);
+}
+
+.text-danger-light-6 {
+  color: rgb(238.6, 157.8, 157.8);
+}
+
+.bg-danger-light-6 {
+  background-color: rgb(238.6, 157.8, 157.8);
+}
+
+.text-danger-light-7 {
+  color: rgb(242.7, 182.1, 182.1);
+}
+
+.bg-danger-light-7 {
+  background-color: rgb(242.7, 182.1, 182.1);
+}
+
+.text-danger-light-8 {
+  color: rgb(246.8, 206.4, 206.4);
+}
+
+.bg-danger-light-8 {
+  background-color: rgb(246.8, 206.4, 206.4);
+}
+
+.text-danger-light-9 {
+  color: rgb(250.9, 230.7, 230.7);
+}
+
+.bg-danger-light-9 {
+  background-color: rgb(250.9, 230.7, 230.7);
+}
+
+.text-danger-dark-1 {
+  color: rgb(192.6, 10.8, 10.8);
+}
+
+.bg-danger-dark-1 {
+  background-color: rgb(192.6, 10.8, 10.8);
+}
+
+.text-danger-dark-2 {
+  color: rgb(171.2, 9.6, 9.6);
+}
+
+.bg-danger-dark-2 {
+  background-color: rgb(171.2, 9.6, 9.6);
+}
+
+.text-danger-dark-3 {
+  color: rgb(149.8, 8.4, 8.4);
+}
+
+.bg-danger-dark-3 {
+  background-color: rgb(149.8, 8.4, 8.4);
+}
+
+.text-danger-dark-4 {
+  color: rgb(128.4, 7.2, 7.2);
+}
+
+.bg-danger-dark-4 {
+  background-color: rgb(128.4, 7.2, 7.2);
+}
+
+.text-danger-dark-5 {
+  color: #6b0606;
+}
+
+.bg-danger-dark-5 {
+  background-color: #6b0606;
+}
+
+.text-danger-dark-6 {
+  color: rgb(85.6, 4.8, 4.8);
+}
+
+.bg-danger-dark-6 {
+  background-color: rgb(85.6, 4.8, 4.8);
+}
+
+.text-danger-dark-7 {
+  color: rgb(64.2, 3.6, 3.6);
+}
+
+.bg-danger-dark-7 {
+  background-color: rgb(64.2, 3.6, 3.6);
+}
+
+.text-danger-dark-8 {
+  color: rgb(42.8, 2.4, 2.4);
+}
+
+.bg-danger-dark-8 {
+  background-color: rgb(42.8, 2.4, 2.4);
+}
+
+.text-danger-dark-9 {
+  color: rgb(21.4, 1.2, 1.2);
+}
+
+.bg-danger-dark-9 {
+  background-color: rgb(21.4, 1.2, 1.2);
+}
+
+/*# sourceMappingURL=index.css.map */
