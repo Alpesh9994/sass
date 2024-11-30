@@ -1,0 +1,15 @@
+/node_modules
+
+# Ignore npm log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore build directory if present (common for many projects)
+
+# Ignore environment files
+.env
+
+# Optional: Ignore IDE/editor folders like VSCode, WebStorm, etc.
+.vscode/
+.idea/
