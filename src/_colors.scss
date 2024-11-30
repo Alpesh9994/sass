@@ -8,6 +8,7 @@
   .bg-#{$key} {
     background-color: $val;
   }
+  
 
   // light variations
   @for $i from 1 through 9{
